@@ -13,7 +13,7 @@ To define the action perform by the user action type is created which a dispathc
 -Add<br/>
 -Multiply<br/>
 -Subtract<br/>
--Divide<br/><br/>
+-Divide<br/>
 -Clear<br/>
 -Equal<br/>
 <br/>
