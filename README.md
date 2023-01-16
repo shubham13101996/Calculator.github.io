@@ -1,3 +1,25 @@
+# Calculator Reactjs Project 🚀
+
+## ⭐ Introduction
+
+This is a Calculator  Project which is built using Reactjs. It is responsive across all devices.
+To manage the state useReducer is used which require 2 argument one is reducer and other is initial value.
+Reducer as a function require two arguments one is state and action.
+To define the action perform by the user action type is created which a dispathcer is passed to reducer and reducer perform the activity according to the action type.
+<br/>
+<br/>
+
+## Features 
+-Add<br/>
+-Multiply<br/>
+-Subtract<br/>
+-Divide<br/><br/>
+-Clear<br/>
+-Equal<br/>
+<br/>
+<br/>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
