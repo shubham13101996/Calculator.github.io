@@ -2,12 +2,13 @@
     box-sizing: border-box;
   }
   
+  /* for body  */
   body{
     margin: 0;
     background: linear-gradient(to right, rgb(208, 174, 209), #aeebf0);
   }
   
-  
+  /* for calculator_container and button */
   .calculator_container {
     display: grid;
     margin-top: 2rem;
@@ -33,6 +34,7 @@
     grid-column: span 2;
   }
   
+  /* for output screen  */
   .output_container {
     grid-column: 1 / -1;
     background-color: rgba(0, 0, 0, .75);
